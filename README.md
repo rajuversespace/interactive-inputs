@@ -19,6 +19,10 @@ Since the initial release, we have continued to add features, i.e., [**Slack**/ 
 
 To see the complete list of input field types and their respective properties supported by the `interactive` input mentioned below, go to the [Input Fields Types](#input-fields-types) section of this README.<br>
 
+## Architecture Diagram
+
+<img width="2755" height="1955" alt="GitHub_Actions_interactive_input" src="https://github.com/user-attachments/assets/c582b135-3286-4104-8902-403cabf26a85" />
+
 
 <!-- action-docs-inputs source="action.yml" -->
 ## Inputs
